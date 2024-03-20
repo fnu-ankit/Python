@@ -1,4 +1,4 @@
-<a href="https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata">Big Countries</a>
+<a href="https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata", target="_blank">Big Countries</a>
 
 Table: World
 
